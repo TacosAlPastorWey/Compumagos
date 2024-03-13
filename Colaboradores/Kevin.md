@@ -1,1 +1,1 @@
-[Practica 1](Ejercicios/Semana1/Arreglos.md)
+[Practica 1](Ejercicio%201.md)

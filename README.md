@@ -13,7 +13,7 @@ Vincular notas de distintos folders:
 [Nombre](<relativePath>)
 ```
 
-
+Notas sobre la información:
 ```
-Cualquier cosa que vean útil añadir
+Cualquier información escrita, que no provenga de ChatGPT. No copiar y pegar la información. Añadir referencia de la fuente de información. Primer aviso.
 ```

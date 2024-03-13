@@ -1,11 +1,12 @@
 ## Lenguaje
 
 * Entrada estándar
-* Arreglos
-* Cadenas
-* Matrices
-* Recursión
+* [Arreglos](Temario/Lenguaje/Arreglos.md)
+* [Cadenas](Temario/Lenguaje/Cadenas.md) -Kev (Miercoles 3 Abril)
+* [Matrices](Temario/Lenguaje/Matrices.md) -Aang (Miercoles 20 Marzo)
+* [Recursión](Temario/Lenguaje/Recursión.md) -Ohm (Miercoles 27 Marzo)
 * Números de punto flotante
+
 ## Algoritmia
 
 * Búsqueda
@@ -24,9 +25,10 @@
 * Grafos
 	* Algoritmo de Dijkstra
 	* Algoritmos de Prim y Kruskal
+- Análisis de Complejidad
 ## Estructuras de datos
 
-* Pila
+* [Pila](<Temario/Estructuras de datos/Pilas.md>) -Jmz (Mierc 10 Abril)
 * Cola
 * Lista enlazada
 * Grafos
@@ -67,4 +69,5 @@
 * Aritmética modular
 * Criptografía
 * Geometría
+* Notación O-grande
 * Teoría de juegos
