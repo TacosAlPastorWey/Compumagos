@@ -1,6 +1,6 @@
 
 Temario inicial:  
-[[Arreglos]] 
+[[Temario/Arreglos]] 
 [[Barridos]] 
 Pilas  
 Colas  
