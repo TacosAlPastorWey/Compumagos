@@ -103,7 +103,7 @@ Entrada:
 * n = 11
 * q = 4
 Creamos el árbol de strings, insertando cada cadena de stringList
-![[combined_image.png]]
+![[ejercicio1_james_2.png]]
 
 #### Conteo de queryList
 Ahora, por cada query, recorremos el árbol verificando el número de veces (rojo) que se repitió cada string.
@@ -114,6 +114,6 @@ Para la trayectoria a->b (cadena "ab") su conteo es de 2.
 Para a->b->c su conteo es de 3.
 Para a->-b->d su conteo es de 5.
 
-![[ejercicio1_james.png]]
+![[ejercicio1_james_1.png]]
 Salida:
 	[1,2,3,5]
