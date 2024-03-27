@@ -25,6 +25,7 @@
 * Grafos
 	* Algoritmo de Dijkstra
 	* Algoritmos de Prim y Kruskal
+* Binary exponantiation
 - Análisis de Complejidad
 ## Estructuras de datos
 
@@ -70,6 +71,7 @@
 * Geometría
 * Notación O-grande
 * Teoría de juegos
+* Función explícita de funciones recursivas
 ## Random but interesting
 
 * Complejidad ciclomática 
