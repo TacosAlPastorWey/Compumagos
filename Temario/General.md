@@ -2,16 +2,16 @@
 
 * Entrada estándar
 * [Arreglos](Temario/Lenguaje/Arreglos.md)
-* [Cadenas](Temario/Lenguaje/Cadenas.md) -Kev (Miercoles 3 Abril)
-* [Matrices](Temario/Lenguaje/Matrices.md) -Aang (Miercoles 20 Marzo)
-* [Recursión](Temario/Lenguaje/Recursión.md) -Ohm (Miercoles 27 Marzo)
-* Números de punto flotante
+* [Cadenas](Temario/Lenguaje/Cadenas.md) -Kev (Miércoles 3 Abril)
+* [Matrices](Temario/Lenguaje/Matrices.md) -Aang (Miércoles 20 Marzo)
+* [Recursión](Temario/Lenguaje/Recursión.md) -Ohm (Miércoles 27 Marzo)
+* Números de punto flotante  -Aang (1 Mayo)
 
 ## Algoritmia
 
 * Búsqueda
-	* En anchura (BFS)
-	* En profundidad (DFS)
+	* En anchura (BFS)  
+	* En profundidad (DFS) -Kev (8 Mayo)
 	* Priorizada 
 	* A*
 	* Binaria
@@ -28,7 +28,7 @@
 - Análisis de Complejidad
 ## Estructuras de datos
 
-* [Pila](<Temario/Estructuras de datos/Pilas.md>) -Jmz (Mierc 10 Abril)
+* [Pila](<Temario/Estructuras de datos/Pilas.md>) -Jmz (Miércoles 10 Abril)
 * Cola
 * Lista enlazada
 * Grafos
@@ -44,7 +44,7 @@
 
 ## Métodos / técnicas
 
-* Fuerza bruta
+* Fuerza bruta -Ohm (17 Abril)
 * Barridos
 * Cubetas
 * Mascaras de bits
@@ -61,8 +61,7 @@
 
 * Combinatoria
 * Teoría de números
-	* MCD Y MCM
-	* Algoritmo de Euclides
+	* Algoritmo de Euclides, MCD y MCM -Jmz (24 Abril)
 	* Criba de Eratóstenes
 	* Test de primalidad
 	* Factorización prima
@@ -71,3 +70,8 @@
 * Geometría
 * Notación O-grande
 * Teoría de juegos
+## Random but interesting
+
+* Complejidad ciclomática 
+* RegExr
+* Reconstruction conjecture [Wiki](https://en.wikipedia.org/wiki/Reconstruction_conjecture)
